@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'FleBay',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://mesg.ebay.com/mesgweb/ViewMessages/0/All',
 		},
 		{
 			id: '4',
