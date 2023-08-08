@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'RL Supply',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://rlpartssupply.com/wp-admin/',
 		},
 		{
 			id: '6',
