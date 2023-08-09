@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Brandon',
+	name: 'Mr. Lewandowski',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'buttons'
+	bentoLayout: 'buttons', // 'bento','buttons'
 
 	// Weather
 	weatherKey: 'd7803f9981949dd2536b51ec10452ca0', // Write here your API Key
