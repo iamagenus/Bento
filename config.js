@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Worthless Peon',
+	name: 'Non-Essential Employee',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
