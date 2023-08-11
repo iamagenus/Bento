@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'You Nincompoop',
+	name: 'You Nincompoop!',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
