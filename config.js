@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Nameless Helper',
+	name: 'Nameless Thankless',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
