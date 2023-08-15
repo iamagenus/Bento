@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Fleabay Cases',
 			icon: 'scale',
-			link: 'https://www.ebay.com/bmgt/BuyerBlock',
+			link: 'https://www.ebay.com/sh/resolutions',
 		},
 		{
 			id: '3',
