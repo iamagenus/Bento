@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'News',
+			icon: 'newspaper',
+			link: 'https://google.com/news',
 		},
 	],
 
