@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'R&L Supply',
-			icon: 'layout',
+			icon: 'panels-top-left',
 			link: 'https://rlpartssupply.com/wp-admin/',
 		},
 		{
