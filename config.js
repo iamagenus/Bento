@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Mr. Brandon',
+	name: 'Master Lewandowski',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
