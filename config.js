@@ -117,8 +117,8 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			icon: 'search',
+			link: 'https://www.google.com',
 		},
 		{
 			id: '6',
